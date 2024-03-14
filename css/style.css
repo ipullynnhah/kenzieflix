@@ -15,12 +15,9 @@ h1 {
   margin-top: 60px;
 }
 
-main {
+ul {
   width: 1000px;
   margin: 0 auto;
-}
-
-ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
